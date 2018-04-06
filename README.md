@@ -2,6 +2,17 @@
 
 Week 1
 
+Class Exercises
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week1/clarangkasa.html
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week1/css.html
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week1/flag1.html
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week1/flag2.html
+
+
 Assignments
 
 https://clarangkasa.github.io/clarwp/Assignments/Week1/object1.html
@@ -19,9 +30,9 @@ Week 2
 
 Class Exercises
 
-https://clarangkasa.github.io/clarwp/Class Exercises/nauru.html
+https://clarangkasa.github.io/clarwp/ClassExercises/nauru.html
 
-https://clarangkasa.github.io/clarwp/Class Exercises/US_flag.html
+https://clarangkasa.github.io/clarwp/ClassExercises/US_flag.html
 
 Assignments
 
