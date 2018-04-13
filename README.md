@@ -42,3 +42,6 @@ https://clarangkasa.github.io/clarwp/ClassExercises/Week2/US_flag.html
 https://clarangkasa.github.io/clarwp/Assignments/Week2/Grid1.html
 
 https://clarangkasa.github.io/clarwp/Assignments/Week2/Grid2.html
+
+ https://clarangkasa.github.io/clarwp/Assignments/Week3/animation.html
+
