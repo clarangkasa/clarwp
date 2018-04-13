@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <style>
+
+      section {
+        display: flex;
+        flex-direction:column;
+        height:50vw;
+        }
+
+        div {
+          flex: 1000px;
+          border: 1px solid black;
+        }
+
+        div:nth-child(1){background:red;}
+        div:nth-child(2){background:white; }
+        div:nth-child(3){background:blue; }
+
+
+
+      @media (min-width:720px) {
+        div:nth-child(3){display:none;}
+      }
+
+
+      @media (max-width:360px) {
+        section {flex-direction: row;}
+        div:nth-child(1){background:green;}
+        div:nth-child(2){background:white;}
+        div:nth-child(3){background:red; }
+      }
+
+
+    </style>
+  </head>
+
+  <body>
+
+    <section>
+      <div></div>
+      <div></div>
+      <div></div>
+
+
+    </section>
+
+  </body>
+
+</html>
