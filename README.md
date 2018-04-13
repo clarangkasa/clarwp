@@ -1,8 +1,19 @@
 # clarwp
 
-Week 1
+<strong>Week 1</strong>
 
-Assignments
+<em>Class Exercises</em>
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week1/clarangkasa.html
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week1/css.html
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week1/flag1.html
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week1/flag2.html
+
+
+<em>Assignments</em>
 
 https://clarangkasa.github.io/clarwp/Assignments/Week1/object1.html
 
@@ -15,15 +26,18 @@ https://clarangkasa.github.io/clarwp/Assignments/Week1/object4.html
 https://clarangkasa.github.io/clarwp/Assignments/Week1/object5.html
 
 
-Week 2
 
-Class Exercises
+ 
 
-https://clarangkasa.github.io/clarwp/Class Exercises/nauru.html
+<strong>Week 2</strong>
 
-https://clarangkasa.github.io/clarwp/Class Exercises/US_flag.html
+<em>Class Exercises</em>
 
-Assignments
+https://clarangkasa.github.io/clarwp/ClassExercises/Week2/nauru.html
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week2/US_flag.html
+
+<em>Assignments</em>
 
 https://clarangkasa.github.io/clarwp/Assignments/Week2/Grid1.html
 
