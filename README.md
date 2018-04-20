@@ -43,5 +43,30 @@ https://clarangkasa.github.io/clarwp/Assignments/Week2/Grid1.html
 
 https://clarangkasa.github.io/clarwp/Assignments/Week2/Grid2.html
 
- https://clarangkasa.github.io/clarwp/Assignments/Week3/animation.html
+
+
+<strong>Week 3</strong>
+
+<em>Class Exercises</em>
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week3/mediaquery.html
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week3/senegal.html
+
+
+<em>Assignments</em>
+
+https://clarangkasa.github.io/clarwp/Assignments/Week3/animation.html
+
+
+
+<strong>Week 4</strong>
+
+<em>Class Exercises</em>
+
+https://clarangkasa.github.io/clarwp/ClassExercises/Week4/candycane.html
+
+
+<em>Assignments</em>
+
 
